@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import GameHeader from './components/GameHeader'
-import Card from './components/card'
+import GameHeader from './components/GameHeader.jsx'
+import Card from './components/Card.jsx'
 const  cardValues=[
   "🍎",
   "🍌",
